@@ -16,7 +16,6 @@ const App = () => {
     } else {
       idSecond.id - idOne.id;
     }
-    return;
   }
 
   return (
