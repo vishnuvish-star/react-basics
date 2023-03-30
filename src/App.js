@@ -14,7 +14,6 @@ const App = () => {
     if (setSorted) {
       idOne.id - idSecond.id;
     } else {
-      idSecond.id - idOne.id;
     }
   }
 
